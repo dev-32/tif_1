@@ -1,16 +1,12 @@
 # tif_1
 
-A new Flutter project.
+A flutter-based project featuring -
+- use of APIs
+- fetching data from APIs along with the use of FutureBuilder.
+- Google Drive link: https://drive.google.com/file/d/1xj-C8ABCBhj9aCWCFp60bRihWYqpCPpQ/view?usp=sharing
 
-## Getting Started
+## Images
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- <img width="1438" alt="Screenshot 2023-11-18 at 7 19 01 PM" src="https://github.com/dev-32/tif_1/assets/99115141/383619ab-4ce6-4e4e-a85a-a34b4936eb03">
+- <img width="1433" alt="Screenshot 2023-11-18 at 7 19 20 PM" src="https://github.com/dev-32/tif_1/assets/99115141/7e0ad452-45a4-4f89-aec2-f6e80471355e">
+- <img width="1437" alt="Screenshot 2023-11-18 at 7 19 42 PM" src="https://github.com/dev-32/tif_1/assets/99115141/27e01ca4-96b5-45b9-8542-57e4c86190fa">
