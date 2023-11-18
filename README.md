@@ -3,7 +3,7 @@
 A flutter-based project featuring -
 - use of APIs
 - fetching data from APIs along with the use of FutureBuilder.
-- Google Drive link : https://drive.google.com/file/d/1xj-C8ABCBhj9aCWCFp60bRihWYqpCPpQ/view?usp=sharing
+- Google Drive link: https://drive.google.com/file/d/1xj-C8ABCBhj9aCWCFp60bRihWYqpCPpQ/view?usp=sharing
 
 ## Images
 
